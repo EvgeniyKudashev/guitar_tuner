@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гитарный тюнер</string>
+    <string name="str_amd_url">https://amd.spbstu.ru/</string>
+    <string name="action_settings">Настройки</string>
+    <string name="str_depth">Прикладная математика</string>
+    <string name="str_university1">СПбПУ Петра Великого</string>
+    <string name="str_university2">Политехнический Университет</string>
+    <string name="str_toweb">На веб-сайт</string>
+    <string name="str_start">Старт</string>
+    <string name="str_restart">Перезапуск</string>
+    <string name="str_score">Score</string>
+    <string name="str_moves">Moves</string>
+    <string name="str_total">Total</string>
+    <string name="str_combo">Combo</string>
+    <string name="manual1">Нажмите на кнопку</string>
+    <string name="manual2">Настраивая гитару, добейтесь совпадения</string>
+    <string name="manual3">красной и черной линий</string>
+    <string name="test_manual">Тестирование приложения</string>
+    <string name="test_text">
+        Чтобы убедиться, что приложение точно распознает звуки, проиграйте представленные ниже звуки с другого устройства, поднеся под его динамик тестируемое приложение \n
+        \n
+        1ая струна (E): \n
+        https://akkordam.ru/audio/august/1str.MP3 \n
+        2ая струна (B): \n
+        https://akkordam.ru/audio/august/2str.MP3 \n
+        3ая струна (G): \n
+        https://akkordam.ru/audio/august/3str.MP3 \n
+        4ая струна (D): \n
+        https://akkordam.ru/audio/august/4str.MP3 \n
+        5ая струна (A): \n
+        https://akkordam.ru/audio/august/5str.MP3 \n
+        6ая струна (E): \n
+        https://akkordam.ru/audio/august/6str.MP3
+    </string>
+
+</resources>

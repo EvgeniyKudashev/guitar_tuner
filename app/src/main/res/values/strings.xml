@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+    <string name="str_amd_url">https://amd.spbstu.ru/</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_depth">Applied Math Department</string>
+    <string name="str_university1">Peter the Great St.Petersburg</string>
+    <string name="str_university2">Politechnic University</string>
+    <string name="str_toweb">To web site</string>
+    <string name="str_start">Start</string>
+    <string name="str_restart">Restart</string>
+    <string name="str_score">Score</string>
+    <string name="str_moves">Moves</string>
+    <string name="str_total">Total</string>
+    <string name="str_combo">Combo</string>
+    <string name="manual1">Press button</string>
+    <string name="manual2">Tune your guitar to match</string>
+    <string name="manual3">red and black lines</string>
+    <string name="test_manual">Test the application</string>
+    <string name="test_text">
+        To make sure that the application accurately recognizes sounds, play the sounds below from another device, bringing the tested application under its speaker \n
+        \n
+        1st string (E): \n
+        https://akkordam.ru/audio/august/1str.MP3 \n
+        2nd string (B): \n
+        https://akkordam.ru/audio/august/2str.MP3 \n
+        3rd string (G): \n
+        https://akkordam.ru/audio/august/3str.MP3 \n
+        4th string (D): \n
+        https://akkordam.ru/audio/august/4str.MP3 \n
+        5th string (A): \n
+        https://akkordam.ru/audio/august/5str.MP3 \n
+        6th string (E): \n
+        https://akkordam.ru/audio/august/6str.MP3
+    </string>
+
+
+</resources>
